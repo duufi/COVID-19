@@ -1,4 +1,4 @@
-# COVID-19-
+# COVID-19
 Introduction to BioPython, Jupyter Notebook
 
 This repository is to serve as my own personal notes for BioPython, working primarily with the COVID-19 genome. Visualizations
